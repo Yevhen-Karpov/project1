@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://yevhen-karpov.github.io/project-group-20",
+  "homepage": "https://yevhen-karpov.github.io/project1",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-group-20/"
+    "build": "parcel build src/*.html --public-url /project1/"
   },
   "repository": {
     "type": "git",
